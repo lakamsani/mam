@@ -1,0 +1,12 @@
+{
+    "name":"gaya",
+    "description":"gaya",
+    "radius": "100",
+    "sub_locations": [],
+    "coordinates": [
+       {
+           "longitude": 77.58825,
+           "latitude": 12.991323
+       }
+     ]
+ }
